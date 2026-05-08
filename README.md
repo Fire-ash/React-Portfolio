@@ -22,6 +22,4 @@ Modern responsive developer portfolio built using React, Vite, Tailwind CSS, and
 - Clean developer-focused aesthetic
 
 Deployed on Vercel.
-
-<img width="1366" height="699" alt="Screenshot_2026-05-08_15-50-31" src="https://github.com/user-attachments/assets/8bce7987-3b2b-4aca-a609-a888234acfbe" />
-
+<img width="1366" height="651" alt="Screenshot_2026-05-08_15-50-31" src="https://github.com/user-attachments/assets/834dd1d2-0c1b-491c-b5ad-d4b75851545a" />
