@@ -3,7 +3,7 @@
 Modern responsive developer portfolio built using React, Vite, Tailwind CSS, and Framer Motion.
 
 ## Live Demo
-(https://.app)
+(https://react-portfolio-nu-taupe.vercel.app/)
 
 ## Tech Stack
 
